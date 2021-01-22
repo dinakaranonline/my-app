@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to CI-CD enabled <a href="https://nextjs.org">New Next.js!</a>
+          Welcome to AWS DevOps CI-CD enabled <a href="https://nextjs.org">New Next.js!</a>
         </h1>
 
         <p className={styles.description}>
